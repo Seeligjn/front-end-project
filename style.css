@@ -39,7 +39,7 @@
   body {
     background-image: url('frontendbg.jpeg');
     background-size: cover;
-
+    background-repeat: no-repeat;
   }
   .display-verse {
     text-align: center;
